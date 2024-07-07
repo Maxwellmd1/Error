@@ -53,7 +53,7 @@ module.exports = {
   VERSION: process.env.VERSION || "4.0.0",
   caption: process.env.CAPTION ||"𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●",
   author: process.env.STICKER_AUTHOR || "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●",
-  packname: process.env.STICKER_NAME || "〽️",
+  packname: process.env.STICKER_NAME || "✅",
   botname: process.env.BOT_NAME || "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●",
   ownername: process.env.OWNER_NAME || "Maxwell",
   errorChat: process.env.ERROR_CHAT || "💔",
